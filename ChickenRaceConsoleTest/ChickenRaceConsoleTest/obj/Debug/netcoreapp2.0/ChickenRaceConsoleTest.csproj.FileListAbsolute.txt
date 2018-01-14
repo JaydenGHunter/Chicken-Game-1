@@ -1,0 +1,11 @@
+C:\Users\Jayden Hunter\Documents\Projects\Chicken Game\Chicken-Game-1\ChickenRaceConsoleTest\ChickenRaceConsoleTest\bin\Debug\netcoreapp2.0\ChickenRaceConsoleTest.deps.json
+C:\Users\Jayden Hunter\Documents\Projects\Chicken Game\Chicken-Game-1\ChickenRaceConsoleTest\ChickenRaceConsoleTest\bin\Debug\netcoreapp2.0\ChickenRaceConsoleTest.runtimeconfig.json
+C:\Users\Jayden Hunter\Documents\Projects\Chicken Game\Chicken-Game-1\ChickenRaceConsoleTest\ChickenRaceConsoleTest\bin\Debug\netcoreapp2.0\ChickenRaceConsoleTest.runtimeconfig.dev.json
+C:\Users\Jayden Hunter\Documents\Projects\Chicken Game\Chicken-Game-1\ChickenRaceConsoleTest\ChickenRaceConsoleTest\bin\Debug\netcoreapp2.0\ChickenRaceConsoleTest.dll
+C:\Users\Jayden Hunter\Documents\Projects\Chicken Game\Chicken-Game-1\ChickenRaceConsoleTest\ChickenRaceConsoleTest\bin\Debug\netcoreapp2.0\ChickenRaceConsoleTest.pdb
+C:\Users\Jayden Hunter\Documents\Projects\Chicken Game\Chicken-Game-1\ChickenRaceConsoleTest\ChickenRaceConsoleTest\obj\Debug\netcoreapp2.0\ChickenRaceConsoleTest.csprojResolveAssemblyReference.cache
+C:\Users\Jayden Hunter\Documents\Projects\Chicken Game\Chicken-Game-1\ChickenRaceConsoleTest\ChickenRaceConsoleTest\obj\Debug\netcoreapp2.0\ChickenRaceConsoleTest.csproj.CoreCompileInputs.cache
+C:\Users\Jayden Hunter\Documents\Projects\Chicken Game\Chicken-Game-1\ChickenRaceConsoleTest\ChickenRaceConsoleTest\obj\Debug\netcoreapp2.0\ChickenRaceConsoleTest.AssemblyInfoInputs.cache
+C:\Users\Jayden Hunter\Documents\Projects\Chicken Game\Chicken-Game-1\ChickenRaceConsoleTest\ChickenRaceConsoleTest\obj\Debug\netcoreapp2.0\ChickenRaceConsoleTest.AssemblyInfo.cs
+C:\Users\Jayden Hunter\Documents\Projects\Chicken Game\Chicken-Game-1\ChickenRaceConsoleTest\ChickenRaceConsoleTest\obj\Debug\netcoreapp2.0\ChickenRaceConsoleTest.dll
+C:\Users\Jayden Hunter\Documents\Projects\Chicken Game\Chicken-Game-1\ChickenRaceConsoleTest\ChickenRaceConsoleTest\obj\Debug\netcoreapp2.0\ChickenRaceConsoleTest.pdb
