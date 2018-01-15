@@ -42,8 +42,7 @@ namespace ChickenRaceConsoleTest
         public void addExp(int i)
         {
             exp += i;
-            checkExp();
-            
+            checkExp();    
         }
         public void checkExp()
         {

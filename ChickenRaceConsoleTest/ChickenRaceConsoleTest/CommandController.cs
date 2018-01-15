@@ -41,7 +41,6 @@ namespace ChickenRaceConsoleTest
                 case "bet":
                     startBet(d);
                     break;
-
             }
             sw.Stop();
             Console.WriteLine("Elapsed={0}", sw.ElapsedMilliseconds + " ms");
@@ -72,8 +71,7 @@ namespace ChickenRaceConsoleTest
         }
         //Gets top 8 horses and bottom 8 horses
         private void topbot8(Data d)
-        {
-            
+        {           
             for(int i = 0; i <8;i++)
             {
                 Console.WriteLine(d.horses[i].print());
@@ -134,7 +132,6 @@ namespace ChickenRaceConsoleTest
         private void newRace(Data d)
         {
             d.newRace();
-
         }
     }
 }

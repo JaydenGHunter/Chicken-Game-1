@@ -8,8 +8,6 @@ namespace ChickenRaceConsoleTest
 {
     static class Program
     {
-
-
         static public CommandController cc;
         static public Data data;
         static void Main(string[] args)

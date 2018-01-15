@@ -22,11 +22,6 @@ namespace ChickenRaceConsoleTest
             startRace();
         }
 
-       /* public void startRace()
-        {
-            horses.Sort();
-        }*/
-
         private void startRace()
         {
             d.horses.Shuffle();
@@ -34,7 +29,6 @@ namespace ChickenRaceConsoleTest
             calculateOdds();
             updateHorses();
             d.checkBets(winners);
-            //printList();
         }
 
         private void calculateOdds()
@@ -57,14 +51,13 @@ namespace ChickenRaceConsoleTest
                    winTR = 2;
                 }
             
-            float newOdd = (((winTR / x)/winTR)*100)/1.1f;
+                float newOdd = (((winTR / x)/winTR)*100)/1.1f;
                 horse.setOdds(newOdd);
             }
         }
 
         private void decideOrder()
         {
-
             for (int i = 0; i < numOfHorses; i++)
             {
 

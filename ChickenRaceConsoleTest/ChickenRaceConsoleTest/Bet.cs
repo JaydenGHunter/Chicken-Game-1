@@ -45,12 +45,10 @@ namespace ChickenRaceConsoleTest
         }
         private void payoutBet(float odd)
         {
-
                 int newAmount = (int)(odd * amount);
                 player.addMoney(newAmount);
                 times--;
                 Console.WriteLine("You're bet has paid out $" + newAmount + " You now have: $" + player.getMoney() + " remaining, and $" + (amount * times) + " left on the bet");
-
         }
 
         private void removeBet()
